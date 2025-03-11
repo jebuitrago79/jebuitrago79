@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.freepik.es/vector-gratis/computadora-portatil-icono-isometrico-codigo-programa-desarrollo-software-aplicaciones-programacion-neon-oscuro_4102879.htm#fromView=search&page=1&position=4&uuid=91b572b2-77b6-4f82-a45d-9f09d7775708&query=programador+ " align="center" style="width: 100%" />
+<img src="   " align="center" style="width: 100%" />
 </div>  
   
 
