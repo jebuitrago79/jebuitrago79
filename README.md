@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.freepik.es/vector-gratis/computadora-portatil-icono-isometrico-codigo-programa-desarrollo-software-aplicaciones-programacion-neon oscuro_4102879.htm#fromView=search&page=1&position=0&uuid=4b3bced2-3d77-43f8-8304-b01ad4e9c695&query=programador+ " align="center" style="width: 100%" />
+<img src="https://www.freepik.es/vector-gratis/computadora-portatil-icono-isometrico-codigo-programa-desarrollo-software-aplicaciones-programacion-neon-oscuro_4102879.htm#fromView=search&page=1&position=4&uuid=91b572b2-77b6-4f82-a45d-9f09d7775708&query=programador+ " align="center" style="width: 100%" />
 </div>  
   
 
@@ -50,5 +50,3 @@
 
 <br/>  
 
-## Spotify
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21pggng65l4k5wfwqacp56nga)
